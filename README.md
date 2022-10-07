@@ -16,3 +16,9 @@ https://github.com/lectures-fmlorg/os-2022/blob/main/pdf/knowledge.pdf
 
 - [オペレーティングシステム(2022)　シリーズ構成](https://lectures.fml.org/os/)
 - [クラウド演習 AWS 編〜AWS Academy の概要〜](https://lectures.fml.org/slides/service/aws/academy/#1)
+
+## ライセンス
+
+- pdf/以外の本リポジトリの全コンテンツ(issues, wiki など含めてすべて)は、
+  [CC BY-SA 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)とします
+- pdf/については、各ドキュメントのライセンス条項を参照してください
