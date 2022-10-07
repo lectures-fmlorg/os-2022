@@ -12,10 +12,6 @@ https://github.com/lectures-fmlorg/os-2022/blob/main/pdf/knowledge.pdf
 **クイズ**の回答は[Google フォーム](https://forms.gle/4dHTMPknc3V3J9Ys5)にお願いします。
 (クイズの回答は任意です。演習で用いると思われるコマンドをまとめているので参考にしてください。)
 
-## 注意
-
-- Google フォームのメールアドレスには大学のメールアドレスを入力してください。
-
 ## その他
 
 - [オペレーティングシステム(2022)　シリーズ構成](https://lectures.fml.org/os/)
