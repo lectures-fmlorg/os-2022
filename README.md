@@ -21,7 +21,7 @@ Operating System (2022) fall term
 
 ## ワークシートや演習で詰まっている人
 
-[docs.pdf](https://github.com/lectures-fmlorg/os-2022/blob/main/pdf/docs.pdf)内の**クイズ**の回答は[Google フォーム](https://forms.gle/4dHTMPknc3V3J9Ys5)に回答することで回答を閲覧できます。
+[docs.pdf](https://github.com/lectures-fmlorg/os-2022/blob/main/pdf/docs.pdf)内の**クイズ**の回答は[Google フォーム](https://forms.gle/4dHTMPknc3V3J9Ys5)に回答することで正解を閲覧できます。
 
 クイズを行うことでコマンドの理解を深めることができます。
 
