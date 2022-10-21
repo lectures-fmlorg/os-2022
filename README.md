@@ -59,7 +59,7 @@ https://github.com/lectures-fmlorg/os-2022/blob/main/pdf/knowledge.pdf
 
 ### 後半部分
 
-講義の前半部分(8~最後まで)の参考資料です。
+講義の前半部分(9~最後まで)の参考資料です。
 
 - [クラウド演習 AWS 編〜AWS Academy の概要〜](https://lectures.fml.org/slides/service/aws/academy/#1)
 
