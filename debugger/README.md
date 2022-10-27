@@ -17,12 +17,12 @@ $ pip3 install https://github.com/OHMORIYUSUKE/grech/blob/release/grech-0.1.0-py
 本演習向けの設定を入れます。
 
 ```sh
-$ sudo grech config set https://path/to/test.yml
+$ sudo grech config set https://raw.githubusercontent.com/lectures-fmlorg/os-2022/main/debugger/test.yml
 ```
 
 ### 設定
 
-各自の環境で設定した情報を登録します。
+各自の環境で設定した情報を登録します。コマンドの指示に従って設定してください。
 
 ```sh
 sudo grech config set
