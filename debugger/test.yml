@@ -2,7 +2,7 @@
 name: OS-lecture-check
 description: オペレーティングシステムのチェックシナリオ
 # ハンズオンシナリオのURL
-docs_url: https://cist-operating-system.netlify.app/
+docs_url: https://github.com/lectures-fmlorg/os-2022
 # 作者
 author: yusuke-ohmori
 # コピーライト
