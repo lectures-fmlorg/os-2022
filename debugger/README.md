@@ -6,10 +6,10 @@ EC2 に SSH 後に以下のコマンドを実行してください。
 
 ### インストール
 
-PIP インストールします。
+ツールをインストールします。PIP でインストールします。
 
 ```sh
-$ pip3 install https://github.com/OHMORIYUSUKE/grech/blob/release/grech-0.1.0-py3-none-any.whl?raw=true
+$ sudo pip3 install https://github.com/OHMORIYUSUKE/grech/blob/release/grech-0.1.0-py3-none-any.whl?raw=true
 ```
 
 ### 初期化
