@@ -4,6 +4,12 @@
 
 ## スライド
 
+### AWS で MINECRAFT SERVER
+
+PDF
+
+[PDF で閲覧](./slide/tutida.pdf)
+
 ### EC2+Docker のアプリ
 
 Google スライド
