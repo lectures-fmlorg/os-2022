@@ -9,6 +9,7 @@ Operating System (2022) fall term
   [導入方法](./debugger/README.md)
 - 昨年の最終課題の制作物を公開しました。最終課題の参考にしてください。[こちら](./final_assignment/README.md)
 - 前半の演習についてのアンケートです。回答をお願いします。[こちら](https://forms.gle/8gDVbPsjQMWWT8Zp9)
+- アドベントカレンダーです。qiita のアカウントを作成すると登録できます。[こちら](https://qiita.com/advent-calendar/2022/cist)
 
 ## 講義について
 
